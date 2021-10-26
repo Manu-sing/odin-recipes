@@ -8,3 +8,5 @@ This is my first full Odin project. At the end of it I will have demostrated to 
 - push my work to GitHub
 - make a recipe website with Html
 - publish the site on the web via GitHub
+
+View my recipe website here: https://manu-sing.github.io/odin-recipes/
